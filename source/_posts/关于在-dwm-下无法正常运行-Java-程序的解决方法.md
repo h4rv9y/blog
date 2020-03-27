@@ -12,11 +12,11 @@ tags:
 
 安装完 dwm 之后，使用 JetBrains Toolbox 安装 Intellij IDEA、CLion、PyCharm 等应用，打开时出现如下状况：
 
-![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_005.png)
+![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_005_shadow.png)
 
 一片白屏，光标移动到不同位置时会有变化，退出的时候对话框能够显示
 
-![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_006.png)
+![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_006_shadow.png)
 
 ### 问题原因
 
@@ -40,5 +40,5 @@ wmname LG3D
 
 ### 效果图
 
-![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_007.png)
+![](关于在-dwm-下无法正常运行-Java-程序的解决方法/screenshot_007_shadow.png)
 

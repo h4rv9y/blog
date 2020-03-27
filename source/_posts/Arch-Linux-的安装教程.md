@@ -183,7 +183,7 @@ fdisk <DriveName>
 
 中文版：
 
-![](Arch-Linux-的安装教程/screenshot_010.png)
+![](Arch-Linux-的安装教程/screenshot_010_shadow.png)
 
 ---
 
